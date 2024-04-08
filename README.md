@@ -9,4 +9,3 @@ Attached:
 . touchDesigner folder - TouchDesigner visual - rootsValExp2.14.toe file, along with necessary   
   files.
 
-If attempting to run, the port settings in the code are tailored to my own laptops, so it may be different for whoever is running so please get in contact if you cannot get it working. 
